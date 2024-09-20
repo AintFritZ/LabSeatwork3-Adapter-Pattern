@@ -13,6 +13,6 @@ GradingSystemAdapter - An adapter for integrating the grading system into the sc
 LibrarySystemAdapter - An adapter for integrating the library management system into the school management application. It adapts the LibrarySystem to the SchoolManagementApp interface, translating integrateSystem() to manageBooks().
 In your solution you must provide the following in your Github link account:
 
-  Problem statement (description of the problem. Just copy what is stated here.
-  Uploaded java codes for the solution.
+Problem statement (description of the problem. Just copy what is stated here.
+Uploaded java codes for the solution.
 Upload your GitHub Solution link here.
